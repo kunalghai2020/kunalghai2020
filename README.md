@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/kunalghai2020/kunalghai2020/output/github-contribution-grid-snake-dark.svg" alt="snake" style="max-width: 100%;">
 
 <div id="user-content-toc" dir="auto">
   <ul align="center" dir="auto">
